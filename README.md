@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pooja Durgi</h1>
-<h3 align="center">A Computer Science graduate student on a quest to turn lines of code into meaningful solutions. Currently, I'm honing my development skills as a Junior Developer at FSU, where I'm constantly learning and growing. My passion for problem-solving and innovation drives me to explore the ever-evolving world of software development. Let's connect and collaborate on exciting projects!</h3>
+<h5 align="center">A Computer Science graduate student on a quest to turn lines of code into meaningful solutions. Currently, I'm honing my development skills as a Junior Developer at FSU, where I'm constantly learning and growing. My passion for problem-solving and innovation drives me to explore the ever-evolving world of software development. Let's connect and collaborate on exciting projects!</h3>
 
 - 🔭 I’m currently working on [SocialMediaApp with Fastapi](https://github.com/PDurgi/SocialMediaApp-Fastapi)
 
