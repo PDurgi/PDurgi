@@ -20,6 +20,7 @@
 - Building **observability dashboards** for real-time system health visibility
 - Automating cloud operations with **Python, Terraform, and Azure PowerShell**
 - Onboarding services into Azure with full compliance and governance
+- Developing **Model Context Protocol (MCP)** integrations to connect AI tools with internal systems and workflows
 
 ---
 
