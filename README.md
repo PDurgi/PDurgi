@@ -34,16 +34,6 @@
 - Automated platform tasks using **PowerShell, Ansible, and YAML** workflows to reduce manual toil
 - Conducted root cause analysis for **Java Spring Boot** apps on Linux, improving incident response efficiency by 40%
 
----
-
-## 🏢 TraCS Florida / FSU *(Jul 2022 – May 2024)*
-
-- Managed and optimized **Azure SQL and SQL Server** databases with advanced indexing, backups, and query tuning
-- Integrated **PagerDuty with Prometheus** alerting rules to automate incident response and on-call rotations
-- Developed deployment runbooks and automated readiness checks to support production rollouts
-
----
-
 ## 🏢 Accenture *(Aug 2018 – Nov 2021)*
 
 - Developed **Azure Functions** (Python & C#) for real-time data sync between SAP Basis ERP and order databases, reducing latency by 25%
