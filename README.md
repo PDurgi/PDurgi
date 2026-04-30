@@ -2,7 +2,7 @@
 <h4 align="center">Site Reliability Engineer | Azure | Kafka | Observability | Automation</h4>
 
 <p align="center">
-  SRE with 7+ years of experience building reliable, scalable cloud infrastructure. Currently at <strong>Dayforce</strong>, where I work on production readiness, SLI/SLO frameworks, observability dashboards, and incident response for tax and payments services. Passionate about automation, event-driven architecture, and eliminating toil.
+  SRE with 7+ years of experience building reliable, scalable cloud infrastructure. Currently at <strong>Dayforce</strong>, where I work on production readiness, SLI/SLO frameworks, observability dashboards, and incident response for tax and payments services. Beyond reliability engineering, I build and integrate <strong>Model Context Protocol (MCP) servers</strong> to connect AI agents with internal tools and workflows, and leverage <strong>Azure OpenAI</strong> and <strong>Azure AI Studio</strong> to bring intelligent automation into cloud operations. Passionate about the intersection of AI, automation, and eliminating toil.
 </p>
 
 <p align="center">
@@ -21,6 +21,36 @@
 - Automating cloud operations with **Python, Terraform, and Azure PowerShell**
 - Onboarding services into Azure with full compliance and governance
 - Developing **Model Context Protocol (MCP)** integrations to connect AI tools with internal systems and workflows
+
+---
+
+## 🏢 AT&T *(May 2024 – Sept 2025)*
+
+- Built and deployed **Azure-based Confluent Kafka clusters** for disaster recovery with RTO/RPO-aligned replication strategies
+- Optimized Kafka clusters on Confluent Platform, improving **throughput by 35%** and reducing latency
+- Diagnosed and resolved KSQLDB stream processing issues, reducing **data processing time by 60%**
+- Developed **Grafana and OpenSearch** monitoring solutions, increasing system visibility by 80% and cutting MTTD
+- Configured **Azure VNets, Private Endpoints, and DNS Zones** for network isolation and enterprise security compliance
+- Automated platform tasks using **PowerShell, Ansible, and YAML** workflows to reduce manual toil
+- Conducted root cause analysis for **Java Spring Boot** apps on Linux, improving incident response efficiency by 40%
+
+---
+
+## 🏢 TraCS Florida / FSU *(Jul 2022 – May 2024)*
+
+- Managed and optimized **Azure SQL and SQL Server** databases with advanced indexing, backups, and query tuning
+- Integrated **PagerDuty with Prometheus** alerting rules to automate incident response and on-call rotations
+- Developed deployment runbooks and automated readiness checks to support production rollouts
+
+---
+
+## 🏢 Accenture *(Aug 2018 – Nov 2021)*
+
+- Developed **Azure Functions** (Python & C#) for real-time data sync between SAP Basis ERP and order databases, reducing latency by 25%
+- Designed real-time streaming solutions using **Azure Service Bus and Confluent Kafka** for e-commerce apps
+- Built a containerized **chatbot for SAP S/4HANA** using AKS, OData, SAP Fiori, React, and Teams API
+- Implemented **DevOps pipelines using Terraform**, boosting system reliability by 40%
+- Built **Power BI dashboards** to monitor SAP enterprise systems on Azure, enhancing system health visibility by 66%
 
 ---
 
