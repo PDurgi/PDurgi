@@ -28,7 +28,7 @@
 
 Curating articles, papers, and resources at the intersection of **AI and Site Reliability Engineering** — covering topics like LLM-powered automation, observability, incident response, MCP integrations, and more.
 
-👉 [**Explore the collection → pdurgi/sre-ai**](https://github.com/pdurgi/sre-ai)
+👉 [**Explore the collection → pdurgi/sre-ai**]([https://github.com/PDurgi/AI-SRE-TechBlogs])
 
 ---
 
